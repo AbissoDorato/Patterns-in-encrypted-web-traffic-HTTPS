@@ -1,13 +1,7 @@
-# Machine Learning for Networking Project
+# Machine Learning for Networking Project, Politecnico di Torino 
 
 ## Project Title: 
-*Insert Project Title Here*
-
-## Course: 
-Machine Learning for Networking
-
-## Institution: 
-Politecnico di Torino
+Patterns in encrypted web traffic HTTPS
 
 ## Authors:
 - Alessandro Torrisi
